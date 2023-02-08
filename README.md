@@ -14,6 +14,7 @@ The Questionnaire can be accessed using the following path:
 PyCitySchools ----> PyCitySchools_starter
 
 These are the steps for some of the questions:
+
 Step 1: Data frame has been created in table format across all students which contains "Total Schools", "Total Students", "Total Budget", "Average Maths Score", "Average Reading Score", "%Passing Maths", "%Passing Reading", "%Overall Passing".
     Passing score is 50
 

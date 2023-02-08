@@ -1,6 +1,7 @@
-# pandas_challenges
-Challenge 4: To make strategic decisions regarding future school budgets and priorities.
+# Trends in school performance using pandas
+To make strategic decisions regarding future school budgets and priorities.
 
+## Instructions
 Input files can be accessed using the following path:
 PyCitySchools --->Resources
 
@@ -25,6 +26,6 @@ Step 4: Worst performing schools were sorted based on "Overall Passing %"
 The code and execution for the remaining steps in "PyCitySchools_Working" file.
 
 To run the solution, clone the repo using command:
-    Git clone https://github.com/BharatGuturi/pandas_challenges.git
+    Git clone https://github.com/BharatGuturi/Trends-in-School-Performance-using-pandas.git
 
 Execute the file "PyCitySchools_Working"
